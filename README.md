@@ -1,5 +1,4 @@
-![Crafting Responsive & Dynamic Web Experiences with Modern Technologies](https://media.licdn.com/dms/image/v2/D5616AQHa2V7nYEOIpg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693372847177?e=1731542400&v=beta&t=kLQjJXZhMy57K1BpYiQZHOBXDqUNA_U0BUxn8DthjaY)
-
+https://media.licdn.com/dms/image/v2/D4D16AQGnDlMuqz5ERQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727026236720?e=1733961600&v=beta&t=9g_PUGusKjFSC9ELl1-xvFNTGE2538hZeDsiOajc9YQ
 ### Hi there 👋, I'm Farhad Mahmud
 Crafting Responsive & Dynamic Web Experiences with Modern Technologies
 
